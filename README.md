@@ -1,6 +1,6 @@
 # 🤙 Aloha, I'm Keanu Ventura
 
-🎓 UCSD Data Science Major | 🌺 From Oʻahu, Hawaii | 🏀 Sports & Analytics Enthusiast
+🎓 UCSD Data Science Major | 🌺 From Oʻahu, Hawaii | 🏀 Sports & Analytics Enthusiast  
 📊 Passionate about using data to build predictive models and solve real-world problems.
 
 ---
@@ -9,4 +9,4 @@
 
 #### 🍳 [Cooking Up Insights](https://keanuventura.github.io/RecipeDataProject/)  
 Explore how cooking time impacts ratings and how to predict calories through an interactive website.  
-[Code & Notebooks]([https://github.com/yourusername/cooking-up-insights](https://github.com/KeanuVentura/RecipeDataProject))
+[Code & Notebooks](https://github.com/KeanuVentura/RecipeDataProject)
