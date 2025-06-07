@@ -1,4 +1,4 @@
-# 🤙 Aloha, I'm Keanu Ventura
+# Keanu Ventura
 
 🎓 UCSD Data Science Major | 🏄‍♂️ From Oʻahu, Hawaii | 🏀 Sports & Analytics Enthusiast  
 📊 Passionate about using data to build predictive models and solve real-world problems.
