@@ -19,3 +19,6 @@ Explore how cooking time impacts ratings and how to predict calories through a w
 ### 🔍 [title](link)
 description
 [GitHub Repo](repo)
+
+## ✍️ Individual Articles
+
