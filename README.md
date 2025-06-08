@@ -7,7 +7,7 @@
 
 ## 📂 Featured Projects
 
-### 🏀 [StatPilot](https://statpilot.example.com)  
+### 🏀 [StatPilot](https://statpilot-6cg9.onrender.com)  
 Predict NBA player prop outcomes with a live, interactive web app.  
 [GitHub Repo](https://github.com/KeanuVentura/statpilot)  
 [Devpost](https://devpost.com/KeanuVentura)
