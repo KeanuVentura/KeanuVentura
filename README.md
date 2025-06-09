@@ -10,7 +10,7 @@
 ### 🏀 [StatPilot](https://statpilot-6cg9.onrender.com)  
 Predict NBA player prop outcomes with a live, interactive web app.  
 [GitHub Repo](https://github.com/KeanuVentura/statpilot)  
-[Devpost](https://devpost.com/KeanuVentura)
+[Devpost](https://devpost.com/software/statpilot)
 
 ### 🍳 [Cooking Up Insights](https://keanuventura.github.io/RecipeDataProject/)  
 Explore how cooking time impacts ratings and how to predict calories through a website with data visuals and statistical models.  
