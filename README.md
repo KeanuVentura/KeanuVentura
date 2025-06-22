@@ -17,11 +17,11 @@ Explore how cooking time impacts ratings and how to predict calories through a w
 [GitHub Repo](https://github.com/KeanuVentura/RecipeDataProject)
 
 ### 🔍 [title](link)
-description  
+in progress  
 [GitHub Repo](repo)
 
 ## ✍️ Individual Articles
 
 ### 🔍 [title](link)
-description  
+in progress
 [GitHub Repo](repo)
