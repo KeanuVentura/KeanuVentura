@@ -22,6 +22,6 @@ in progress
 
 ## ✍️ Individual Articles
 
-### 🔍 [in progress](link)
+### 🔍 [BeyondOpenLooks](link)
 
 [GitHub Repo](repo)
