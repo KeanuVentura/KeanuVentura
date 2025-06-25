@@ -22,6 +22,6 @@ in progress
 
 ## ✍️ Individual Articles
 
-### 🔍 [BeyondOpenLooks](link)
+### 🎯 [BeyondOpenLooks](link)
 
-[GitHub Repo](repo)
+[GitHub Repo](https://github.com/KeanuVentura/BeyondOpenLooks)
