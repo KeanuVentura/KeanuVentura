@@ -17,7 +17,7 @@ Explore how cooking time impacts ratings and how to predict calories through a w
 [GitHub Repo](https://github.com/KeanuVentura/RecipeDataProject)
 
 ### 🧠 [ShotMakersVsShotTakers](link)
-Use unsupervised learning to classify NBA scorers by advanced shooting and efficiency metrics, uncovering what separates shot-makers from system shooters
+Use unsupervised learning to classify NBA scorers based on advanced shooting and efficiency metrics
 [GitHub Repo](https://github.com/KeanuVentura/ShotMakersVsShotTakers)
 
 ## ✍️ Individual Articles
