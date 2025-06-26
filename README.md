@@ -20,8 +20,6 @@ Explore how cooking time impacts ratings and how to predict calories through a w
 Use unsupervised learning to classify NBA scorers based on advanced shooting and efficiency metrics.  
 [GitHub Repo](https://github.com/KeanuVentura/ShotMakersVsShotTakers)
 
-## ✍️ Individual Articles
-
 ### 🎯 [BeyondOpenLooks](link)
-
+Analyzing whether elite NBA shooters excel by taking high-quality shots or by consistently outperforming shot quality expectations.  
 [GitHub Repo](https://github.com/KeanuVentura/BeyondOpenLooks)
