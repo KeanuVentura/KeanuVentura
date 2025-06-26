@@ -17,7 +17,7 @@ Explore how cooking time impacts ratings and how to predict calories through a w
 [GitHub Repo](https://github.com/KeanuVentura/RecipeDataProject)
 
 ### 🧠 [ShotMakersVsShotTakers](link)
-in progress  
+Classify NBA scorers using K-Means clustering based on advanced shooting and efficiency metrics to uncover what separates shot-makers from system shooters. 
 [GitHub Repo](https://github.com/KeanuVentura/ShotMakersVsShotTakers)
 
 ## ✍️ Individual Articles
