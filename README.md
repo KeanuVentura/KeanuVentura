@@ -16,9 +16,9 @@ Predict NBA player prop outcomes with a live, interactive web app.
 Explore how cooking time impacts ratings and how to predict calories through a website with data visuals and statistical models.  
 [GitHub Repo](https://github.com/KeanuVentura/RecipeDataProject)
 
-### 🔍 [in progress](link)
+### 🧠 [ShotMakersVsShotTakers](link)
 in progress  
-[GitHub Repo](repo)
+[GitHub Repo](https://github.com/KeanuVentura/ShotMakersVsShotTakers)
 
 ## ✍️ Individual Articles
 
