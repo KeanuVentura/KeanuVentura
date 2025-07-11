@@ -16,9 +16,9 @@ Predict NBA player prop outcomes with a live, interactive web app.
 Explore how cooking time impacts ratings and how to predict calories through a website with data visuals and statistical models.  
 [GitHub Repo](https://github.com/KeanuVentura/RecipeDataProject)
 
-### 🧠 [ShotMakersVsShotTakers](link)
+### 🧠 [ShotMakersVsSystemShooters](link)
 Use unsupervised learning to classify NBA scorers based on advanced shooting and efficiency metrics.  
-[GitHub Repo](https://github.com/KeanuVentura/ShotMakersVsShotTakers)
+[GitHub Repo](https://github.com/KeanuVentura/ShotMakersVsSystemShooters)
 
 ### 🎯 [BeyondOpenLooks](https://keanuventura.github.io/BeyondOpenLooks/)
 Analyzing whether elite NBA shooters excel by taking high-quality shots or by consistently outperforming shot quality expectations.  
