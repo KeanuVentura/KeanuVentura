@@ -19,3 +19,7 @@ Explore how cooking time impacts ratings and how to predict calories through a w
 ### 🎯 [BeyondOpenLooks](https://keanuventura.github.io/BeyondOpenLooks/)
 Analyzing whether elite NBA shooters excel by taking high-quality shots or by consistently outperforming shot quality expectations.  
 [GitHub Repo](https://github.com/KeanuVentura/BeyondOpenLooks)
+
+### 🌐 [Portfolio](https://keanuventura.github.io/portfolio/)
+A personal portfolio website built from scratch using HTML, CSS, and JavaScript to showcase projects, resume, and contact info.  
+[GitHub Repo](https://github.com/KeanuVentura/portfolio)
