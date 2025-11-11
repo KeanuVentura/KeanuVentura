@@ -23,3 +23,7 @@ Analyzing whether elite NBA shooters excel by taking high-quality shots or by co
 ### 💼 [Portfolio](https://keanuventura.github.io/portfolio/)
 A personal portfolio website built from scratch using HTML, CSS, and JavaScript to showcase projects, resume, and contact info.  
 [GitHub Repo](https://github.com/KeanuVentura/portfolio)
+
+### 🌌 [GOES Water Vapor Visualization](https://keanuventura.github.io/GOESWaterVaporVisualization/)  
+Interactive visualization of GOES-16 satellite water vapor data with dynamic sliders and D3.js plots, allowing users to explore temporal patterns in atmospheric data.  
+[GitHub Repo](https://github.com/KeanuVentura/GOESWaterVaporVisualization)
