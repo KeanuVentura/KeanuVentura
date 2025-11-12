@@ -25,5 +25,5 @@ A personal portfolio website built from scratch using HTML, CSS, and JavaScript 
 [GitHub Repo](https://github.com/KeanuVentura/portfolio)
 
 ### 🛰️ [GOES Water Vapor Visualization](https://keanuventura.github.io/GOESWaterVaporVisualization/)  
-Explore GOES-16 water vapor data interactively with D3.js and dynamic sliders.
+Explore GOES-16 water vapor data interactively with D3.js and dynamic sliders.  
 [GitHub Repo](https://github.com/KeanuVentura/GOESWaterVaporVisualization)
