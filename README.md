@@ -20,10 +20,10 @@ Explore how cooking time impacts ratings and how to predict calories through a w
 Analyzing whether elite NBA shooters excel by taking high-quality shots or by consistently outperforming shot quality expectations.  
 [GitHub Repo](https://github.com/KeanuVentura/BeyondOpenLooks)
 
-### 💼 [Portfolio](https://keanuventura.github.io/portfolio/)
-A personal portfolio website built from scratch using HTML, CSS, and JavaScript to showcase projects, resume, and contact info.  
-[GitHub Repo](https://github.com/KeanuVentura/portfolio)
-
 ### 🛰️ [GOESWaterVaporVisualization](https://keanuventura.github.io/GOESWaterVaporVisualization/)  
 Explore GOES-16 water vapor data interactively with D3.js and dynamic sliders.  
 [GitHub Repo](https://github.com/KeanuVentura/GOESWaterVaporVisualization)
+
+### 💼 [Portfolio](https://keanuventura.github.io/portfolio/)
+A personal portfolio website built from scratch using HTML, CSS, and JavaScript to showcase projects, resume, and contact info.  
+[GitHub Repo](https://github.com/KeanuVentura/portfolio)
