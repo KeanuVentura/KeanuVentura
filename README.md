@@ -24,6 +24,10 @@ Analyzing whether elite NBA shooters excel by taking high-quality shots or by co
 Explore GOES-16 water vapor data interactively with D3.js and dynamic sliders.  
 [GitHub Repo](https://github.com/KeanuVentura/GOESWaterVaporVisualization)
 
+### 🚴‍♂️ [BikeWatching](https://keanuventura.github.io/BikeWatching/)  
+Interactive BlueBikes traffic visualization using Mapbox GL and D3.js.  
+[GitHub Repo](https://github.com/KeanuVentura/BikeWatching)
+
 ### 💼 [Portfolio](https://keanuventura.github.io/portfolio/)
 A personal portfolio website built from scratch using HTML, CSS, and JavaScript to showcase projects, resume, and contact info.  
 [GitHub Repo](https://github.com/KeanuVentura/portfolio)
