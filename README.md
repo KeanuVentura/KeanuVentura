@@ -21,7 +21,7 @@ A personal portfolio website built from scratch using HTML, CSS, and JavaScript 
 ## ✍️ Articles
 
 ### 🧊 [CO2IceCores](https://keanuventura.github.io/IceCoreBubbles/)  
-Animated data article on CO₂ preserved in Antarctic ice, featuring scroll-driven visuals and interactive D3.js charts.
+Animated data article on CO₂ preserved in Antarctic ice, featuring scroll-driven visuals and interactive D3.js charts.   
 [GitHub Repo](https://github.com/KeanuVentura/IceCoreBubbles)
 
 ### 🍳 [CookingUpInsights](https://keanuventura.github.io/CookingUpInsights/)  
