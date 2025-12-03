@@ -6,7 +6,6 @@
 ---
 
 ## 📂 Projects
-https://github.com/KeanuVentura/DataJamProject
 
 ### 🌦️ [Weather&Wheels](https://docs.google.com/presentation/d/1Mdhfi-odASkrMy98o7H-q06mWsM7piP8HwRD-vNmwOM/edit?slide=id.g13dd94fddff_0_0#slide=id.g13dd94fddff_0_0)  
 Example DataJam Project analyzing how weather impacts bike-sharing usage in SD; presented to hundreds of high-school students nationwide.  
