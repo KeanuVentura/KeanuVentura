@@ -10,7 +10,7 @@ https://github.com/KeanuVentura/DataJamProject
 
 ### 🌦️ [Weather&Wheels](https://docs.google.com/presentation/d/1Mdhfi-odASkrMy98o7H-q06mWsM7piP8HwRD-vNmwOM/edit?slide=id.g13dd94fddff_0_0#slide=id.g13dd94fddff_0_0)  
 Example DataJam Project analyzing how weather impacts bike-sharing usage in SD; presented to hundreds of high-school students nationwide.  
-[GitHub Repo]((https://github.com/KeanuVentura/DataJamProject))  
+[GitHub Repo](https://github.com/KeanuVentura/DataJamProject)  
 
 ### 📊 [StatPilot](https://statpilot-6cg9.onrender.com)  
 Predict NBA player prop outcomes with a live, interactive web app.  
