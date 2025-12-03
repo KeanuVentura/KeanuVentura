@@ -40,7 +40,7 @@ Analyzing whether elite NBA shooters excel by taking high-quality shots or by co
 
 ## 📈 Visualizations
 
-### 🛰️ [GOESWaterVaporVisualization](https://keanuventura.github.io/GOESWaterVaporVisualization/)  
+### 🛰️ [GOESWaterVapor](https://keanuventura.github.io/GOESWaterVaporVisualization/)  
 Explore GOES-16 water vapor data interactively with D3.js and dynamic sliders.  
 [GitHub Repo](https://github.com/KeanuVentura/GOESWaterVaporVisualization)
 
