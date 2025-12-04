@@ -12,7 +12,7 @@ Example DataJam Project analyzing how weather impacts bike-sharing usage in SD; 
 [GitHub Repo](https://github.com/KeanuVentura/DataJamProject)  
 
 ### 📊 [StatPilot](https://statpilot-6cg9.onrender.com)  
-Predict NBA player prop outcomes with a live, interactive web app.  
+Predict NBA player prop outcomes with a live, interactive web app. Won the Innovation Launchpad Award at DataHacks 2025.  
 [GitHub Repo](https://github.com/KeanuVentura/statpilot)  
 [Devpost](https://devpost.com/software/statpilot)
 
