@@ -53,5 +53,5 @@ Explore GOES-16 water vapor data interactively with D3.js and dynamic sliders.
 Interactive BlueBikes traffic visualization using Mapbox GL and D3.js.  
 [GitHub Repo](https://github.com/KeanuVentura/BikeWatching)
 
-### 
+### 🚴‍♂️ [CostOfProcessing](https://raw.githubusercontent.com/KeanuVentura/KeanuVentura/main/Nutrient_Visualization.jpg)  
 Static visualization created using Tableau. Illustrates how food processing leads to an increase in negative nutrients.
