@@ -7,6 +7,9 @@
 
 ## 📂 Projects
 
+### 🧊 [CO2IceCores](https://keanuventura.github.io/IceCoreBubbles/)  
+Interactive and animated data website on CO₂ preserved in Antarctic ice, featuring scroll-driven visuals and D3.js charts.   
+[GitHub Repo](https://github.com/KeanuVentura/IceCoreBubbles)
 
 ### ⭐ [ReviewBehaviors](https://docs.google.com/presentation/d/1GhN9hyBCCil2XQJTCv1JR7jClGsI3aN45LD1mosN0nw/edit?pli=1&slide=id.g3918f418463_3_87#slide=id.g3918f418463_3_87)  
 Analyzed 44M+ Google Maps reviews to uncover how critical, generous, and neutral users differ in sentiment, patterns, and rating behavior.  
@@ -28,10 +31,6 @@ A personal portfolio website built from scratch using HTML, CSS, and JavaScript 
 ---
 
 ## ✍️ Articles
-
-### 🧊 [CO2IceCores](https://keanuventura.github.io/IceCoreBubbles/)  
-Animated data article on CO₂ preserved in Antarctic ice, featuring scroll-driven visuals and interactive D3.js charts.   
-[GitHub Repo](https://github.com/KeanuVentura/IceCoreBubbles)
 
 ### 🍳 [CookingUpInsights](https://keanuventura.github.io/CookingUpInsights/)  
 Explore how cooking time impacts ratings and how to predict calories through a website with data visuals and statistical models.  
