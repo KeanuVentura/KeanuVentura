@@ -9,7 +9,7 @@
 
 
 ### ⭐ [ReviewBehaviors](https://docs.google.com/presentation/d/1GhN9hyBCCil2XQJTCv1JR7jClGsI3aN45LD1mosN0nw/edit?pli=1&slide=id.g3918f418463_3_87#slide=id.g3918f418463_3_87)  
-Analyzed 44M+ Google Maps reviews to uncover how critical, generous, and neutral users differ in sentiment, patterns, and rating behavior.
+Analyzed 44M+ Google Maps reviews to uncover how critical, generous, and neutral users differ in sentiment, patterns, and rating behavior.  
 [GitHub Repo](https://github.com/COGS108/Group126_FA25)  
 
 ### 🌦️ [Weather&Wheels](https://docs.google.com/presentation/d/1Mdhfi-odASkrMy98o7H-q06mWsM7piP8HwRD-vNmwOM/edit?slide=id.g13dd94fddff_0_0#slide=id.g13dd94fddff_0_0)  
