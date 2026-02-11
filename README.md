@@ -54,3 +54,9 @@ Interactive BlueBikes traffic visualization using Mapbox GL and D3.js.
 
 ### 🍽️ [CostOfProcessing](https://raw.githubusercontent.com/KeanuVentura/KeanuVentura/main/Nutrient_Visualization.jpg)  
 Static visualization created using Tableau. Illustrates how food processing leads to an increase in negative nutrients.
+
+## 🎉 Bonus
+
+### 🍽️ [ValentinesWebpagePreview](https://youfiles.herokuapp.com/videodictionary/?m=Video_Player_Drive&state=%7B%22ids%22:%5B%221Lv063O6GSDE43dpnk5lGAfFIwnkxRa3m%22%5D,%22action%22:%22open%22,%22resourceKeys%22:%7B%7D%7D)  
+A fun, personal project building a Valentine’s proposal website using HTML, CSS, and JavaScript.
+[GitHub Repo](https://github.com/KeanuVentura/valentines)  
