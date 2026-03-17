@@ -7,7 +7,7 @@
 
 ## 📂 Projects
 
-### 📍 [SoCalGuessr](https://docs.google.com/presentation/d/1Hkd-f7HQaH5G3uLkzcYY2sjP_v84mcOORYBrfBL-Vz4/edit?slide=id.p#slide=id.p)  
+### 📍 [SoCalGuessr](https://eldridgejm.github.io/SoCalGuessr/)  
 ResNet-18 CNN to classify Southern California locations from street-level images, capturing geographic patterns through visual features.  
 [GitHub Repo](https://github.com/KeanuVentura/SoCalGuessr)
 
