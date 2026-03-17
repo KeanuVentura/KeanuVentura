@@ -7,6 +7,14 @@
 
 ## 📂 Projects
 
+### 📍 [SoCalGuessr](https://docs.google.com/presentation/d/1Hkd-f7HQaH5G3uLkzcYY2sjP_v84mcOORYBrfBL-Vz4/edit?slide=id.p#slide=id.p)  
+ResNet-18 CNN to classify Southern California locations from street-level images, capturing geographic patterns through visual features.
+[GitHub Repo](https://github.com/KeanuVentura/SoCalGuessr)
+
+### 🫴 [MotorClassifier](https://docs.google.com/presentation/d/1Hkd-f7HQaH5G3uLkzcYY2sjP_v84mcOORYBrfBL-Vz4/edit?slide=id.p#slide=id.p)  
+EEG classifier using CSP and Logistic Regression to distinguish left/right hand and hands/feet motor activity from brain signals.
+[GitHub Repo](https://github.com/KeanuVentura/MotorClassifier)
+
 ### 🧊 [CO2IceCores](https://keanuventura.github.io/IceCoreBubbles/)  
 Interactive and animated data website on CO₂ preserved in Antarctic ice, featuring scroll-driven visuals and D3.js charts.   
 [GitHub Repo](https://github.com/KeanuVentura/IceCoreBubbles)
