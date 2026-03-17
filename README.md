@@ -8,11 +8,11 @@
 ## 📂 Projects
 
 ### 📍 [SoCalGuessr](https://docs.google.com/presentation/d/1Hkd-f7HQaH5G3uLkzcYY2sjP_v84mcOORYBrfBL-Vz4/edit?slide=id.p#slide=id.p)  
-ResNet-18 CNN to classify Southern California locations from street-level images, capturing geographic patterns through visual features.
+ResNet-18 CNN to classify Southern California locations from street-level images, capturing geographic patterns through visual features.  
 [GitHub Repo](https://github.com/KeanuVentura/SoCalGuessr)
 
 ### 🫴 [MotorClassifier](https://docs.google.com/presentation/d/1Hkd-f7HQaH5G3uLkzcYY2sjP_v84mcOORYBrfBL-Vz4/edit?slide=id.p#slide=id.p)  
-EEG classifier using CSP and Logistic Regression to distinguish left/right hand and hands/feet motor activity from brain signals.
+EEG classifier using CSP and Logistic Regression to distinguish left/right hand and hands/feet motor activity from brain signals.  
 [GitHub Repo](https://github.com/KeanuVentura/MotorClassifier)
 
 ### 🧊 [CO2IceCores](https://keanuventura.github.io/IceCoreBubbles/)  
