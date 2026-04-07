@@ -8,7 +8,7 @@
 ## 📂 Projects
 
 ### 📍 [SoCalGuessr](https://eldridgejm.github.io/SoCalGuessr/)  
-ResNet-18 Convolutional Neural Network model that classifies Southern California cities from street-level images using visual features.  
+ResNet-18 CNN model that classifies Southern California cities from street-level images using visual features.  
 [GitHub Repo](https://github.com/KeanuVentura/SoCalGuessr)
 
 ### 👋 [MotorClassifier](https://docs.google.com/presentation/d/1Hkd-f7HQaH5G3uLkzcYY2sjP_v84mcOORYBrfBL-Vz4/edit?slide=id.p#slide=id.p)  
