@@ -1,6 +1,6 @@
 # Keanu Ventura
 
-🎓 UCSD Data Science Major & Cognitive Science Minor | 🏄‍♂️ From Oʻahu, Hawaii | 📈 Sports & Analytics Enthusiast  
+🎓 UCSD Data Science Major & Cognitive Science Minor | 🏄‍♂️ From Oʻahu, Hawaii | 📈 Analytics & Research Enthusiast
 📊 Passionate about using programming to influence decision-making, build predictive models, and solve real-world problems
 
 ---
