@@ -7,7 +7,7 @@
 
 ## 📂 Projects
 
-### 🏡 [KaggleDataMiningChallenge](https://github.com/KeanuVentura/kaggledataminingchallenge)
+### ⛏️ [KaggleDataMiningChallenge](https://github.com/KeanuVentura/kaggledataminingchallenge)
 Ensemble machine learning models that predict Airbnb listing prices using property features, amenities, host data, and listing descriptions.
 [GitHub Repo](https://github.com/KeanuVentura/kaggledataminingchallenge)
 
