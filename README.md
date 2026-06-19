@@ -7,6 +7,10 @@
 
 ## 📂 Projects
 
+### 🎬 [FilmForecast](https://drive.google.com/file/d/1XQ6irKDU8K7PoJdH8XUBonRwStCKrOVa/view?usp=sharing)  
+Predictive modeling project analyzing movie metadata to forecast box office success and uncover factors behind high-performing films.  
+[GitHub Repo](https://github.com/KeanuVentura/filmforecast)
+
 ### 📍 [SoCalGuessr](https://eldridgejm.github.io/SoCalGuessr/)  
 ResNet-18 CNN model that classifies Southern California cities from street-level images using visual features.  
 [GitHub Repo](https://github.com/KeanuVentura/SoCalGuessr)
