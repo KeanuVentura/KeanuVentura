@@ -37,7 +37,7 @@ A personal portfolio website built from scratch using HTML, CSS, and JavaScript 
 ## ✍️ Articles & Reports
 
 ### 🎬 [FilmForecast](https://drive.google.com/file/d/1XQ6irKDU8K7PoJdH8XUBonRwStCKrOVa/view?usp=sharing)  
-Predictive modeling project report analyzing movie metadata to forecast box office success.
+Predictive modeling project report analyzing movie metadata to forecast box office success.  
 [GitHub Repo](https://github.com/KeanuVentura/filmforecast)
 
 ### 🧊 [CO2IceCores](https://keanuventura.github.io/IceCoreBubbles/)  
