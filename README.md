@@ -7,6 +7,10 @@
 
 ## 📂 Projects
 
+### 🏡 [KaggleDataMiningChallenge](https://github.com/KeanuVentura/kaggledataminingchallenge)
+Ensemble machine learning models that predict Airbnb listing prices using property features, amenities, host data, and listing descriptions.
+[GitHub Repo](https://github.com/KeanuVentura/kaggledataminingchallenge)
+
 ### 📍 [SoCalGuessr](https://eldridgejm.github.io/SoCalGuessr/)  
 ResNet-18 CNN model that classifies Southern California cities from street-level images using visual features.  
 [GitHub Repo](https://github.com/KeanuVentura/SoCalGuessr)
