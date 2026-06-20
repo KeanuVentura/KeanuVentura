@@ -7,6 +7,10 @@
 
 ## 📂 Projects
 
+### 🏡 [PredictingAirbnbPrices](https://drive.google.com/file/d/1-UGRbDUshR5Zv8liBmywoDmQ_oFY5yUc/view?usp=sharing)
+Analyzed 51K+ European Airbnb listings using econometric and machine learning models to identify the key drivers of rental prices.
+[GitHub Repo](https://github.com/ShenghaoXue/PredictingAirbnbPrices)
+
 ### ⛏️ [KaggleDataMiningChallenge](https://github.com/KeanuVentura/kaggledataminingchallenge)
 Ensemble machine learning models that predict Airbnb listing prices using property features, amenities, host data, and listing descriptions.
 [GitHub Repo](https://github.com/KeanuVentura/kaggledataminingchallenge)
